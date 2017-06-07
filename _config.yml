@@ -1,17 +1,17 @@
 
 # SEO settings
-title: "Think"
-title2: "space" # default: ""
+title: "bay"
+title2: "chay" # default: ""
 description: "Just another minimalist Jekyll theme for technical writing."
-keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url: http://botcs.github.io/blog # site url
-baseurl: "" # apply repo name if use it under gh-pages branch
+keywords: "Jekyll, blog, Artificial Intelligence, AI, Deep Learning, Machine Learning, Computer Vision, Neural Networks, Generative, GAN, Recurrent, Recurrent Neural Networks, RNN, Natural Language Processing, NLP, Music, Blues, Rock, RHCP, Hendrix, Sabbath, Nirvana"
+url: http://botcs.github.io/blog/ # site url
+baseurl: /blog # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
-repo: http://github.com/botcs/thinkspace
-disqus_shortname: "hnbloggithub"
-twitter_username: "HeiswayiNrird"
+repo: http://github.com/botcs/blog
+disqus_shortname: "@csaba_botos"
+twitter_username: "Csaba Botos"
 comments: true
 
 # Build settings
@@ -30,20 +30,17 @@ sass:
 # Author settings
 author:
   name     : "Csaba Botos"
-  job      : "Bionic Engineer"
-  bio      : "If I can do it my computer should do it"
-  thumb    : /images/author.jpg
-  email    : hnrird@gmail.com
-  url      : http://heiswayi.github.io
-  github   : http://github.com/heiswayi
-  twitter  : http://twitter.com/HeiswayiNrird
-  facebook : https://www.facebook.com/heiswayi.nrird
-  linkedin : http://linkedin.com/in/nrird
+  thumb    : images/author.jpg
+  email    : botos.official@gmail.com
+  url      : http://botcs.github.io
+  github   : http://github.com/botcs
+  twitter  : http://twitter.com/csaba_botos
+  linkedin : https://www.linkedin.com/in/botos-csaba/
 
 # social settings
 og_locale: "en_US"
 twitter_card: "summary_large_image"
-twitter_site: "@HeiswayiNrird"
+twitter_site: "@csaba_botos"
 
 gems:
   - bourbon
